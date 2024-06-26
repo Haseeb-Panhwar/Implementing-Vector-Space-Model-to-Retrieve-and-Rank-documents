@@ -23,7 +23,7 @@ After performing a search, the results are displayed on the same page, listing d
 ----------- VSM Model -----------------
 Overview
 This code implements a basic Vector Space Model (VSM) for text processing and retrieval in Python using natural language processing (NLP) techniques. 
-The VSM is utilized to compute Term Frequency-Inverse Document Frequency (TF-IDF) scores that are crucial in ranking and retrieving documents based on 
+The VSM is utilized to compute Term Frequency-Inverse Document Frequency (TF-IDF) scores which are crucial in ranking and retrieving documents based on 
 their relevance to a given query. This implementation is particularly useful in understanding the fundamental concepts of text indexing, stemming, and 
 relevance scoring in information retrieval systems.
 
